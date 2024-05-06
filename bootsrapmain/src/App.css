@@ -1,0 +1,15 @@
+h1{
+  font-weight: 700;
+  font-size: 45px;
+  margin: 15px;
+  margin-bottom: 20px;
+}
+
+
+.ToDo-container{
+  text-align: left;
+  padding: auto;
+}
+.col-6{
+  margin: 10px;
+}

@@ -1,0 +1,13 @@
+.Heading1{
+  font-weight: 600;
+  font-size: 55px;
+  margin: 10px;
+  margin-bottom: 20px;
+}
+.para{
+  font-size: 22px;
+  font-weight: 300;
+}
+p{
+  font-size: 40px;
+}
